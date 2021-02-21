@@ -1,0 +1,152 @@
+body {
+  text-align: center;
+  background-color: white;
+}
+.abhi{
+  margin: 50px auto;
+}
+h1 {
+  color: #66BFBF;
+  font-family: 'Palanquin', sans-serif;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+}
+
+.weight {
+  font-weight: normal;
+}
+
+.p1 {
+  color: #40514E;
+}
+
+.h1 {
+  border-width: 20px;
+  border-color: #EAF6F6;
+  border-style: dotted;
+  width: 100px;
+  border-top: 0;
+}
+
+.h3 {
+  color: #11999E;
+}
+
+h2 {
+  font-family: 'Handlee', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.profile {}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.pro {
+  background-color: #dcdcdc;
+  text-decoration: underline;
+  border-radius: 2px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 180px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 100px;
+}
+
+.image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image1 {
+  width: 25%;
+  float: right;
+  margin-right: 180px;
+}
+
+.btn {
+  line-height: 100px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1d84de;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+  margin-top: 50px;
+}
+
+.footer-link {
+  line-height: 100px;
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+.footer-link1 {
+  color: #11999E;
+  line-height: 100px;
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+.p2 {
+  color: #EAF6F6;
+  font-family: 'Palanquin', sans-serif;
+  font-size: 0.8rem;
+}
+
+a:hover {
+  color: black;
+}
